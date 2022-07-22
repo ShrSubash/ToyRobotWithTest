@@ -1,0 +1,16 @@
+﻿  direction.cpp
+  grid.cpp
+  move_command.cpp
+  parser.cpp
+  place_command.cpp
+  position.cpp
+  report_command.cpp
+  robot.cpp
+  rotate_command.cpp
+  coordinates.cpp
+  test_coordinates.cpp
+  ToyRobot.cpp
+  Generating Code...
+ToyRobot.obj : error LNK2005: _main already defined in test_coordinates.obj
+test_coordinates.obj : error LNK2019: unresolved external symbol "class boost::unit_test::test_suite * __cdecl init_unit_test_suite(int,char * * const)" (?init_unit_test_suite@@YAPAVtest_suite@unit_test@boost@@HQAPAD@Z) referenced in function _main
+D:\ToyRobotGit\Toy-Robot\Debug\ToyRobot.exe : fatal error LNK1120: 1 unresolved externals

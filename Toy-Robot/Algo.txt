@@ -1,0 +1,11 @@
+PLACE X,Y,FACING : This puts the toy on the table in position X,Y and facing NORTH, SOUTH, EAST or WEST.
+If the toy is already placed, issuing another valid PLACE command will place the toy in the newly specified location.
+MOVE : This moves the toy one unit forward in the direction it is currently facing.With move command this add the one position in x or y axis axis.
+LEFT : This rotates the toy 90 degrees to the left (i.e. counter-clockwise) without changing the position.
+RIGHT : This rotates toy 90 degrees to the right (i.e. clockwise) without changing the position.
+REPORT : This announces the X,Y and direction of the toy by printing to the console.
+
+If North,x+1;
+If South,x-1;
+If East y+1;
+If West,y-1;

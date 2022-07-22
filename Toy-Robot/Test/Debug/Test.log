@@ -1,0 +1,23 @@
+﻿  test_move_command.cpp
+C:\Users\sshre\vcpkg\installed\x86-windows\include\boost\test\unit_test_log_formatter.hpp(40): warning C26495: Variable 'boost::unit_test::log_entry_data::m_level' is uninitialized. Always initialize a member variable (type.6).
+C:\Users\sshre\vcpkg\installed\x86-windows\include\boost\function\function_base.hpp(612): warning C26495: Variable 'boost::function_base::functor' is uninitialized. Always initialize a member variable (type.6).
+C:\Users\sshre\vcpkg\installed\x86-windows\include\boost\test\output\junit_log_formatter.hpp(49): warning C26495: Variable 'boost::unit_test::output::junit_impl::junit_log_helper::assertion_entry::log_entry' is uninitialized. Always initialize a member variable (type.6).
+C:\Users\sshre\vcpkg\installed\x86-windows\include\boost\test\output\junit_log_formatter.hpp(92): warning C26495: Variable 'boost::unit_test::output::junit_log_formatter::m_is_last_assertion_or_error' is uninitialized. Always initialize a member variable (type.6).
+C:\Users\sshre\vcpkg\installed\x86-windows\include\boost\test\impl\debug.ipp(898): warning C6335: Leaking process information handle 'debugger_info.hProcess'.
+C:\Users\sshre\vcpkg\installed\x86-windows\include\boost\test\utils\timer.hpp(123): warning C26451: Arithmetic overflow: Using operator '-' on a 4 byte value and then casting the result to a 8 byte value. Cast the value to the wider type before calling operator '-' to avoid overflow (io.2).
+C:\Users\sshre\vcpkg\installed\x86-windows\include\boost\test\impl\framework.ipp(1587): warning C26827: Did you forget to initialize an enum constant, or intend to use another type?.
+C:\Users\sshre\vcpkg\installed\x86-windows\include\boost\test\impl\execution_monitor.ipp(1200): warning C6387: 'htimer' could be '0'.
+C:\Users\sshre\vcpkg\installed\x86-windows\include\boost\test\impl\execution_monitor.ipp(1229): warning C6387: 'htimer' could be '0'.
+C:\Users\sshre\vcpkg\installed\x86-windows\include\boost\test\impl\execution_monitor.ipp(1240): warning C6387: 'htimer' could be '0'.
+C:\Users\sshre\vcpkg\installed\x86-windows\include\boost\test\impl\test_tools.ipp(121): warning C6001: Using uninitialized memory 'state'.
+C:\Users\sshre\vcpkg\installed\x86-windows\include\boost\test\impl\test_tools.ipp(542): warning C26495: Variable 'boost::test_tools::output_test_stream::Impl::m_text_or_binary' is uninitialized. Always initialize a member variable (type.6).
+C:\Users\sshre\vcpkg\installed\x86-windows\include\boost\test\unit_test_log_formatter.hpp(73): warning C26495: Variable 'boost::unit_test::log_checkpoint_data::m_line_num' is uninitialized. Always initialize a member variable (type.6).
+C:\Users\sshre\vcpkg\installed\x86-windows\include\boost\test\output\xml_log_formatter.hpp(64): warning C26495: Variable 'boost::unit_test::output::xml_log_formatter::m_value_closed' is uninitialized. Always initialize a member variable (type.6).
+C:\Users\sshre\vcpkg\installed\x86-windows\include\boost\test\impl\unit_test_log.ipp(749): warning C6011: Dereferencing NULL pointer 'current_stream'. 
+C:\Users\sshre\vcpkg\installed\x86-windows\include\boost\test\impl\unit_test_main.ipp(215): warning C6031: Return value ignored: 'getchar'.
+C:\Users\sshre\vcpkg\installed\x86-windows\include\boost\test\impl\debug.ipp(143): warning C6387: 'm' could be '0'.
+C:\Users\sshre\vcpkg\installed\x86-windows\include\boost\test\impl\test_tools.ipp(229): warning C6269: Possibly incorrect order of operations.
+C:\Users\sshre\vcpkg\installed\x86-windows\include\boost\test\impl\test_tools.ipp(244): warning C6269: Possibly incorrect order of operations.
+C:\Users\sshre\vcpkg\installed\x86-windows\include\boost\function\function_template.hpp(1119): warning C26439: This kind of function should not throw. Declare it 'noexcept' (f.6).
+C:\Users\sshre\vcpkg\installed\x86-windows\include\boost\smart_ptr\make_shared_object.hpp(73): warning C26495: Variable 'boost::detail::sp_ms_deleter<boost::unit_test::runtime_config::stream_holder::callback_cleaner>::storage_' is uninitialized. Always initialize a member variable (type.6).
+C:\Users\sshre\vcpkg\installed\x86-windows\include\boost\function\function_template.hpp(750): warning C26439: This kind of function should not throw. Declare it 'noexcept' (f.6).
