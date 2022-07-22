@@ -59,7 +59,8 @@ GitHub Link:
  https://github.com/ShrSubash/ToyRobotWithTest/tree/main/Toy-Robot
  
  <h1>Building a Project</h1>
-.  Link the the scr and include folder loaction in additional library.
+.  Link the the src and include folder loaction in additional library.
+
 .  Download and install boost library 
 
 
